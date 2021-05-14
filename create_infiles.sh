@@ -2,8 +2,7 @@
 
 # execute: ./create_infiles.sh inputFile input_dir numFilesPerDirectory
 
-# You can use inputFile from vaccineMonitor 
-# to create directories for every country
+# You can use inputFile from project1 to create directories for every country
 
 Input_parameters=$#
 
