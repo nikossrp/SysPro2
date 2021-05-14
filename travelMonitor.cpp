@@ -25,6 +25,7 @@ void exitt(int signo) {
 
 bool mourning = false;
 void handlSigChild(int signo) {
+    //dead child detected
     mourning = true;
 }
 
