@@ -152,7 +152,7 @@ int main (int argc, char* argv[]) {
         Wpipe[i] = myfifos + "myfifo" + i_str + "_" + i_str;
 
         j_str = to_string(i+1);
-        Rpipe[i] = "myfifos/myfifo" + i_str + "_" + j_str;
+        Rpipe[i] = myfifos + "myfifo" + i_str + "_" + j_str;
     }
 
 
@@ -181,7 +181,7 @@ int main (int argc, char* argv[]) {
         myfifo1 = (char*)Wpipe[i].c_str();
         myfifo2 = (char*)Rpipe[i].c_str();
 
-        // keep all pids from children in an array, we need that for replacement
+        // keep all pids from children in an array, we need that for replacement children
         if ((child_pids[i] = fork()) == 0) {  
             //child process
 
