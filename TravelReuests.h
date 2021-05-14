@@ -17,8 +17,6 @@ typedef struct info {  // for every country we have a array of dates
 
 
 // this class keep the number of request for every citizen
-// if  a citizen requested to travel in the same country
-// counter doesn't increase, 
 class TravelRequests {
 
     private:
