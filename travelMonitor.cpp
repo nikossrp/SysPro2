@@ -12,6 +12,7 @@
 #include "Send_Get.h"
 
 #define Monitor "./Monitor"
+#define Myfifos "/tmp/"
 
 using namespace std;
 
@@ -143,12 +144,12 @@ int main (int argc, char* argv[]) {
     Wpipe = new string[numMonitors];
     HashTable* bloomfilters = new HashTable(MAXSIZE, "BloomFilter");
 
-    
+    string myfifos = Myfifos;
 
     //make an array with names of pipes
     for(int i = 0; i < numMonitors; i++) {
         i_str = to_string(i);
-        Wpipe[i] = "myfifos/myfifo" + i_str + "_" + i_str;
+        Wpipe[i] = myfifos + "myfifo" + i_str + "_" + i_str;
 
         j_str = to_string(i+1);
         Rpipe[i] = "myfifos/myfifo" + i_str + "_" + j_str;
