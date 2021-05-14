@@ -1,10 +1,10 @@
 all: travelMonitor Monitor
 
-IDIR =../project1
+IDIR =../VaccineMonitor
 CC=g++ -g
 CFLAGS=-I$(IDIR) -std=c++11 -g #-Wall
 
-ODIR = project1
+ODIR = VaccineMonitor
 
 OBJ_DIR = $(patsubst %,$(ODIR)/%,$(_OBJ))
 
