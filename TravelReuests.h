@@ -16,7 +16,7 @@ typedef struct info {  // for every country we have a array of dates
 }TravelInfo;
 
 
-// this class keep the number of request for every citizen
+// this class keep the number of request for every country
 class TravelRequests {
 
     private:
