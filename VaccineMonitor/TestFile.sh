@@ -152,7 +152,7 @@ do
         i=$((i+1))                     
 
 
-        readarray -t RecordsArray < $File	//get all records in an array
+        readarray -t RecordsArray < $File	#get all records in an array
         RecordsLines=${#RecordsArray[@]}
         lineR=$((RANDOM%$RecordsLines))
         rec=${RecordsArray[$lineR]}
