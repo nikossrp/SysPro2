@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// consistence ws pros tin morfh tou date
+// consistence for the date format 
 bool consistentDate_str(char* date) {
 
     if (date == NULL)
@@ -26,7 +26,7 @@ bool consistentDate_str(char* date) {
 }
 
 
-// consistence ws pros tous arithmous tou date
+//consistence for the date
 bool consistentDate(Date* date)
 {
     time_t t = time(0);   // get time now
