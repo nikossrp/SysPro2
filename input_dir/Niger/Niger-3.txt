@@ -1,0 +1,20 @@
+4012 govfspZOUog xnrKyAP Niger 81 Marburg NO
+6271 ZlrhwyK HDzReaNDk Niger 108 MERS-CoV YES 06-09-2018
+0898 WRiVCdHG HNRGxSOvZzLC Niger 29 Hantavirus YES 25-03-2021
+7744 KqgskGjm VNpWRM Niger 64 H5N8 NO
+6340 Lhbd TqlenSDn Niger 10 H1N1 NO
+4116 zLiUtWOQnsxJ CHbRIlt Niger 79 H1N1 NO
+1232 ZkyQxvDKk mKMdlT Niger 93 Rotavirus NO
+4116 zLiUtWOQnsxJ CHbRIlt Niger 79 Hantavirus YES 01-04-2008
+4402 Wtv ksLKsilL Niger 93 SARS-CoV NO
+5964 LRng XNVLFdtNiYyv Niger 30 Marburg NO
+6220 TfqgdnIOXhy MgbWGD Niger 14 H1N1 NO
+8480 zXdHcYuQmAf PYWZ Niger 72 SARS-CoV YES 05-06-2017
+6340 Lhbd TqlenSDn Niger 10 Smallpox YES 12-02-2012
+7703 oeuFP UEPWbhDfqvX Niger 46 Hantavirus YES 04-02-2010
+8514 lPMIkQXp BryhkV Niger 97 SARS-CoV2 YES 06-08-2009
+4532 bRuNAAvOEW kRNent Niger 95 Hantavirus YES 30-02-2009
+0755 KBdGAjPVMMp JxjpRA Niger 88 Smallpox YES 20-08-2010
+6396 aayyqPl PHAxumdr Niger 63 SARS-CoV YES 20-03-2020
+2007 wDYNXtUV FUzjmBuyAy Niger 4 SARS-CoV2 YES 07-07-2016
+9012 YNidAfJj uWAjy Niger 99 MERS-CoV YES 25-10-2006

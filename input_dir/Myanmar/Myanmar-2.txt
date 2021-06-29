@@ -1,0 +1,24 @@
+0138 PUIv Trpiv Myanmar 59 H1N1 YES 02-10-2010
+2240 KMMAQrCX eGXiMTKi Myanmar 46 SARS-CoV2 NO
+6550 IjUwjuSqqq WkUvlQqYKnR Myanmar 22 H1N1 NO
+1493 ObzqA LqP Myanmar 66 Rabies YES 18-03-2008
+5602 xVvH kfr Myanmar 6 SARS-CoV2 NO
+1868 Xcxkn HsJtRNISk Myanmar 56 Ebola YES 15-10-2005
+8400 hiZgR SWq Myanmar 68 SARS-CoV2 NO
+4549 JmLOrBccz HMGTummgS Myanmar 21 H5N8 YES 10-02-2004
+1868 Xcxkn HsJtRNISk Myanmar 56 Dengue YES 02-03-2001
+7561 OdidCSAbI mwhlPpDVyzX Myanmar 66 Rabies YES 19-11-2002
+0009 blhkpU oVsGKwTF Myanmar 63 MERS-CoV NO
+2729 mnYGJyxarBQY vTaMFmPqHFi Myanmar 81 Ebola YES 15-08-2008
+7561 OdidCSAbI mwhlPpDVyzX Myanmar 66 Ebola YES 18-06-2016
+8506 XalKkdB PslFvXFGG Myanmar 110 Ebola NO
+2714 mOnQziqvwxok IenUudgWCpE Myanmar 83 Rabies YES 17-05-2018
+5602 xVvH kfr Myanmar 6 H1N1 YES 27-04-2020
+0592 SPDnLdPNor LdbdfrNgCj Myanmar 111 Marburg YES 30-02-2003
+6435 uDlnValRLqoZ kfTZRdmvcvcf Myanmar 104 H1N1 YES 15-05-2003
+0009 blhkpU oVsGKwTF Myanmar 63 Marburg NO
+1906 ytXn JcViWyqJjj Myanmar 16 Ebola YES 23-01-2020
+7536 rMpaD zUAGnDzxpL Myanmar 37 Hantavirus YES 11-07-2020
+2240 KMMAQrCX eGXiMTKi Myanmar 46 SARS-CoV YES 11-11-2014
+5602 xVvH kfr Myanmar 6 Marburg YES 26-09-2019
+8450 FncKusX YwUOKxNQHw Myanmar 47 Rabies YES 26-10-2013

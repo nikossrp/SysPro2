@@ -1,0 +1,21 @@
+7062 dIK AiIrzFCb Nigeria 11 Rotavirus NO
+9833 sUiHzRbgcst kmXkeOYY Nigeria 63 Rotavirus NO
+6199 JKYTnYF dTqMcsZHWS Nigeria 48 Hantavirus NO
+1818 WkEj MOhdFeM Nigeria 56 SARS-CoV2 YES 03-07-2010
+5029 aHltFvWcRBel fmRroCIvG Nigeria 88 Marburg YES 23-06-2020
+6237 VJVljQFDDf kzXxou Nigeria 47 Hantavirus YES 03-08-2002
+1836 ZKOKTp fCJddPb Nigeria 60 SARS-CoV2 YES 16-05-2000
+6199 JKYTnYF dTqMcsZHWS Nigeria 48 Smallpox NO
+1836 ZKOKTp fCJddPb Nigeria 60 H1N1 YES 06-02-2018
+6926 BbruwXjxFyGk pwKQyyluMfhu Nigeria 58 SARS-CoV2 NO
+0159 LxQ CRN Nigeria 45 SARS-CoV2 NO
+6237 VJVljQFDDf kzXxou Nigeria 47 H5N8 YES 04-08-2012
+4435 SrDeiWj DUauziAxjbb Nigeria 109 H1N1 NO
+7062 dIK AiIrzFCb Nigeria 11 Ebola YES 19-07-2016
+7062 dIK AiIrzFCb Nigeria 11 Hantavirus YES 02-04-2000
+8866 IUEbdgU oKkilVrRE Nigeria 50 Hantavirus YES 27-02-2003
+2462 uHvZr yMbCY Nigeria 91 Hantavirus YES 16-05-2018
+3468 wDh TdNa Nigeria 78 Ebola YES 22-01-2012
+3527 svgC egweJnVVdL Nigeria 9 Ebola YES 01-09-2010
+8434 ENIeD CtbPuTBGgr Nigeria 1 SARS-CoV2 YES 03-07-2016
+4435 SrDeiWj DUauziAxjbb Nigeria 109 SARS-CoV2 NO

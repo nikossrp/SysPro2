@@ -1,0 +1,18 @@
+5176 pCwh OYus Zimbabwe 99 MERS-CoV YES 19-09-2006
+6796 AolDhjoHC qYPHLX Zimbabwe 56 Ebola YES 23-08-2006
+2157 RNwTViQ GFjUoukYB Zimbabwe 67 MERS-CoV YES 08-10-2012
+8113 Czj PjHZVtonDj Zimbabwe 28 MERS-CoV YES 09-06-2005
+1901 wWPwXaRWX uZgIdGBgj Zimbabwe 72 SARS-CoV YES 14-08-2002
+2785 QkputApUKuJW IeNAEPZUH Zimbabwe 82 Rotavirus NO
+5397 rAB AegTtpv Zimbabwe 117 Dengue NO
+9532 lfmIBDJGDBQ UDbvVqfzlm Zimbabwe 108 Hantavirus YES 06-02-2008
+8636 wLnOgCxf KlpEPgX Zimbabwe 100 Hantavirus YES 01-06-2013
+2785 QkputApUKuJW IeNAEPZUH Zimbabwe 82 Ebola NO
+2450 SerUgneQHDr SDJXBJAU Zimbabwe 4 Marburg NO
+7280 iORaadR GDbphzZkNzy Zimbabwe 22 H5N8 NO
+0709 HLOjVQu tBAcq Zimbabwe 111 Dengue YES 13-09-2019
+2157 RNwTViQ GFjUoukYB Zimbabwe 67 Marburg YES 03-11-2020
+0283 vNf hiGD Zimbabwe 78 Rotavirus YES 30-11-2011
+9335 vMzqrs kRUkGe Zimbabwe 22 Hantavirus NO
+7280 iORaadR GDbphzZkNzy Zimbabwe 22 Influenza YES 27-08-2007
+6512 fqWfcO YWZZAtQOoXKv Zimbabwe 10 Hantavirus YES 13-08-2007

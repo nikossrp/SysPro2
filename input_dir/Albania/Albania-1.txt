@@ -1,0 +1,24 @@
+5817 JJdxqOOlnz lCFaDhH Albania 28 Rabies YES 12-12-2011
+2174 JWn RgIWTXhpKh Albania 45 Rabies YES 22-04-2002
+1972 yHZQ dFbXoFPv Albania 35 SARS-CoV NO
+4434 wBVIft SFTLyVZ Albania 90 SARS-CoV2 NO
+9292 WvGoKohujcJz VmGx Albania 115 SARS-CoV NO
+5817 JJdxqOOlnz lCFaDhH Albania 28 H1N1 YES 28-01-2009
+9832 iHceaxkP SMJbrKx Albania 59 Dengue YES 30-01-2009
+0041 vvbKTLu UifejGD Albania 58 Hantavirus YES 23-05-2007
+5310 vPOThhX ZWZl Albania 75 Ebola YES 03-05-2017
+7245 wvzGasy GLTqbURRlPtD Albania 105 Influenza NO
+2174 JWn RgIWTXhpKh Albania 45 Marburg NO
+3804 aEaV FehVwvQWJMX Albania 3 SARS-CoV NO
+0915 YzJCyp dasjthmQ Albania 13 MERS-CoV YES 14-03-2010
+1891 JnwT MTkBOe Albania 113 H1N1 YES 11-11-2018
+0041 vvbKTLu UifejGD Albania 58 Rabies NO
+0041 vvbKTLu UifejGD Albania 58 Rotavirus YES 10-08-2015
+4312 DZCsY fGudsn Albania 104 Ebola YES 20-09-2018
+2089 vEvCHoPOhlzI ESlWbLDWqiAh Albania 95 Hantavirus NO
+2174 JWn RgIWTXhpKh Albania 45 Smallpox NO
+1651 pvxTcG Eufc Albania 24 Hantavirus NO
+3418 ExdKlmDSY RMNP Albania 41 Dengue YES 06-06-2002
+1980 hPPn fTfdORU Albania 31 SARS-CoV YES 21-05-2001
+9380 hUGBMoYDxm dBg Albania 29 Rotavirus YES 30-09-2018
+5310 vPOThhX ZWZl Albania 75 Hantavirus NO

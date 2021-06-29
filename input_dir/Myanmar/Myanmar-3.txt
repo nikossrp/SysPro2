@@ -1,0 +1,24 @@
+0671 NkJu BNBJh Myanmar 41 MERS-CoV NO
+0294 idULPdyGoyk cRJdGTKxWhvy Myanmar 79 Ebola NO
+2311 MgeCU YMD Myanmar 84 Ebola NO
+4866 byC SnacZYf Myanmar 111 Rotavirus YES 01-07-2004
+4866 byC SnacZYf Myanmar 111 Smallpox NO
+1868 Xcxkn HsJtRNISk Myanmar 56 Rabies NO
+2840 yXOrotfJNCnH tUsl Myanmar 43 SARS-CoV YES 23-12-2019
+1071 MuZ NCJns Myanmar 19 SARS-CoV NO
+0294 idULPdyGoyk cRJdGTKxWhvy Myanmar 79 Influenza NO
+6405 HIG WstzW Myanmar 105 Influenza NO
+6240 DOTjsbg tuUTaf Myanmar 108 Hantavirus YES 14-09-2009
+4549 JmLOrBccz HMGTummgS Myanmar 21 Smallpox YES 12-12-2015
+0138 PUIv Trpiv Myanmar 59 Rotavirus YES 24-09-2016
+8223 pWqy YbIMnUIkLK Myanmar 87 Rabies YES 09-03-2008
+4866 byC SnacZYf Myanmar 111 MERS-CoV NO
+4795 xHDf umTkh Myanmar 81 SARS-CoV2 YES 06-03-2007
+7606 YVqpWNVbZx SgCOFjIjPIm Myanmar 6 Rotavirus NO
+0900 sbpND gLwVrVdECyIC Myanmar 51 MERS-CoV NO
+4549 JmLOrBccz HMGTummgS Myanmar 21 H1N1 NO
+2729 mnYGJyxarBQY vTaMFmPqHFi Myanmar 81 SARS-CoV YES 24-12-2011
+3040 DuqZ cKakYVGvUMKo Myanmar 67 Marburg YES 29-07-2015
+7658 YQYbE LMO Myanmar 16 Influenza YES 12-11-2012
+3941 uhdp gFLeJsrjin Myanmar 94 Rabies YES 28-06-2020
+5412 GhYLWnUCeq qALAW Myanmar 115 Rabies NO

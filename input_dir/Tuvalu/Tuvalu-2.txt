@@ -1,0 +1,21 @@
+6963 TeUPa HqILHKpFrt Tuvalu 74 Hantavirus NO
+1163 pLWbpDzyLZ aQkQg Tuvalu 114 Hantavirus YES 24-11-2013
+8566 qae EiZQXAiYNxk Tuvalu 115 Ebola YES 26-02-2002
+1735 EgCWdNy BQrpMghxk Tuvalu 55 Influenza NO
+4285 HmSPfgsz mUtVjjkLcQxe Tuvalu 69 H5N8 YES 21-01-2003
+5072 NFqbchU xFu Tuvalu 112 H1N1 NO
+2983 oee nomPfB Tuvalu 110 Hantavirus NO
+2626 vkdyrlUQyZ pOkAPfkOu Tuvalu 69 MERS-CoV NO
+6475 usxe IIZjsyt Tuvalu 43 Marburg YES 23-01-2016
+7653 oQImWcZUIvsk hppYsgP Tuvalu 66 H1N1 YES 29-07-2007
+3101 ozsObEKeZ KxXxjYJZEjt Tuvalu 59 Marburg YES 21-12-2009
+1307 QMVHFc UMmG Tuvalu 62 Influenza YES 15-02-2005
+1395 UjRToc KleZpxbKCY Tuvalu 118 Rabies YES 17-05-2005
+8203 QbRxlEKoGiZU HqXmeI Tuvalu 39 Influenza YES 23-03-2008
+2864 GFjfvOMPtlB QiZEZEiYU Tuvalu 84 Rabies NO
+7653 oQImWcZUIvsk hppYsgP Tuvalu 66 MERS-CoV YES 02-07-2008
+1515 EhyHs POydjxVAlI Tuvalu 105 MERS-CoV YES 22-12-2021
+7988 CgFdzqDFyIZ sjq Tuvalu 95 SARS-CoV NO
+4663 XRqwwzdm WenlHW Tuvalu 91 Marburg NO
+5072 NFqbchU xFu Tuvalu 112 H5N8 NO
+9048 VxMdUtPr tjV Tuvalu 1 H1N1 NO

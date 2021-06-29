@@ -1,0 +1,20 @@
+1597 cPw HrKWUrOTKMbt Niger 37 Ebola YES 02-10-2021
+6239 cJo eoyVmQLeVnWw Niger 95 Smallpox NO
+6239 cJo eoyVmQLeVnWw Niger 95 H1N1 NO
+4402 Wtv ksLKsilL Niger 93 Smallpox NO
+4012 govfspZOUog xnrKyAP Niger 81 Dengue NO
+3507 qCkXTirdDG xaEEASkFz Niger 98 Hantavirus YES 02-09-2016
+4012 govfspZOUog xnrKyAP Niger 81 Rabies YES 24-10-2019
+1232 ZkyQxvDKk mKMdlT Niger 93 Hantavirus YES 03-01-2004
+4768 HyuHo HiRCmOORxt Niger 105 SARS-CoV YES 26-01-2005
+8480 zXdHcYuQmAf PYWZ Niger 72 Smallpox YES 11-09-2005
+4768 HyuHo HiRCmOORxt Niger 105 Dengue YES 16-07-2012
+2601 INftcz WNgLck Niger 102 Hantavirus NO
+3507 qCkXTirdDG xaEEASkFz Niger 98 Dengue YES 27-04-2017
+6396 aayyqPl PHAxumdr Niger 63 Hantavirus NO
+8514 lPMIkQXp BryhkV Niger 97 SARS-CoV2 YES 26-01-2012
+4532 bRuNAAvOEW kRNent Niger 95 Hantavirus YES 08-02-2001
+0066 kOfsbSfq dosRGDOGlV Niger 45 MERS-CoV NO
+0755 KBdGAjPVMMp JxjpRA Niger 88 Rotavirus YES 30-02-2017
+1386 KJmPNuzx MSGrh Niger 54 H1N1 YES 17-10-2014
+0630 KKLDLoDjGCT CKbsNg Niger 95 SARS-CoV2 NO

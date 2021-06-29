@@ -1,0 +1,18 @@
+5639 BdmGsau komD Turkmenistan 27 MERS-CoV YES 09-02-2009
+5411 OuABVmFXJH IfFx Turkmenistan 16 H5N8 NO
+3984 dPZyVVBuxIG PCzkieexXB Turkmenistan 59 SARS-CoV2 NO
+0033 ScmhS kIjkOJpNjX Turkmenistan 77 Dengue YES 06-11-2005
+8962 vRyeuLLUB KikswYB Turkmenistan 50 MERS-CoV YES 17-08-2009
+0293 UhShZHX urbOe Turkmenistan 66 Rotavirus YES 06-05-2021
+0033 ScmhS kIjkOJpNjX Turkmenistan 77 SARS-CoV2 YES 28-06-2001
+2471 ovenfDlf kCiXzqZ Turkmenistan 111 SARS-CoV2 YES 29-06-2017
+2471 ovenfDlf kCiXzqZ Turkmenistan 111 Rabies YES 19-10-2013
+6705 uBPzzn wdLa Turkmenistan 71 Hantavirus YES 26-10-2020
+5639 BdmGsau komD Turkmenistan 27 Rotavirus NO
+7371 OsMgTpRAIow WzFaKYETjIM Turkmenistan 20 Ebola NO
+8848 DlH UNyZ Turkmenistan 14 Marburg YES 17-10-2014
+7371 OsMgTpRAIow WzFaKYETjIM Turkmenistan 20 SARS-CoV YES 28-11-2003
+7195 RbNVsUXiv mtGUVY Turkmenistan 5 SARS-CoV2 NO
+5639 BdmGsau komD Turkmenistan 27 Influenza NO
+3984 dPZyVVBuxIG PCzkieexXB Turkmenistan 59 H5N8 YES 15-11-2013
+7171 QZAML BlEDKLJ Turkmenistan 75 SARS-CoV YES 17-11-2018

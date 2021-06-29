@@ -1,0 +1,23 @@
+3011 AzbQz whMMandTQwlP Nicaragua 77 Influenza YES 13-02-2020
+4475 TPmxswIR xiLFCO Nicaragua 116 Marburg YES 24-11-2007
+1248 IHyntvchxNg ChgLBGOr Nicaragua 35 MERS-CoV YES 04-06-2007
+2132 dFEkgpWVcnz EMhAXMQVJ Nicaragua 57 Influenza NO
+2118 UsQAjAH jJcmNJPVydw Nicaragua 103 Smallpox NO
+3564 KDqoajYj TSFHK Nicaragua 37 Influenza NO
+1180 GprhYJY NVWqfs Nicaragua 112 H1N1 YES 13-06-2017
+1494 bXcQjiotJfTx PdyJp Nicaragua 111 Marburg YES 24-03-2012
+2118 UsQAjAH jJcmNJPVydw Nicaragua 103 Dengue NO
+1644 kamCXA hbdbQZwkTKb Nicaragua 37 Rabies NO
+1082 Fptgqkt fjBvewihM Nicaragua 10 Rabies YES 24-10-2010
+1248 IHyntvchxNg ChgLBGOr Nicaragua 35 MERS-CoV NO
+9300 sFlilGjYLIR xzAEXhqMVM Nicaragua 15 H1N1 NO
+9876 WAzvF pceNRM Nicaragua 90 Smallpox NO
+5780 oSU sIHsZEKweiLG Nicaragua 36 MERS-CoV NO
+5986 mXShzNco HWwK Nicaragua 100 Ebola YES 18-05-2012
+3257 cVdpApT GBytZicjciQo Nicaragua 23 Rabies NO
+1082 Fptgqkt fjBvewihM Nicaragua 10 Hantavirus YES 03-05-2002
+4475 TPmxswIR xiLFCO Nicaragua 116 Rabies NO
+7227 OByugzFu Zxtwxj Nicaragua 46 Dengue NO
+2257 xVhGdHR YZjrFxQu Nicaragua 98 SARS-CoV2 YES 05-04-2013
+2702 aDxaPHyAK QOPzOGKLU Nicaragua 20 Hantavirus NO
+4776 UrXMfIo NXZdrOio Nicaragua 112 Rotavirus NO

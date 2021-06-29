@@ -1,0 +1,15 @@
+4310 SApqkuBt VdCS Norway 30 Smallpox YES 19-04-2005
+8677 FgEmr WWxXDAsba Norway 6 Ebola YES 24-07-2007
+3861 FwPvC acpvt Norway 71 MERS-CoV NO
+8795 JFto rzoY Norway 75 SARS-CoV NO
+8677 FgEmr WWxXDAsba Norway 6 H1N1 NO
+9737 aGna niACWh Norway 58 Rotavirus YES 24-08-2012
+8250 zElpQMkc ImoRbdbrcQI Norway 60 Influenza YES 11-10-2001
+5654 umRfBTXfh pLLTmfY Norway 16 Ebola YES 02-11-2004
+0806 spqD ptA Norway 120 Marburg NO
+9123 USvw tDkIHUVbM Norway 113 Marburg YES 22-07-2007
+0806 spqD ptA Norway 120 Rotavirus NO
+8427 nbWZvFrYdZYJ vfCwRaze Norway 96 Marburg YES 10-02-2006
+7860 VnI tmxPgztfmWv Norway 8 Influenza NO
+7493 WjOPPofMlroy dKHgLObg Norway 39 Marburg NO
+2093 juaV rkmSxSH Norway 42 Marburg NO

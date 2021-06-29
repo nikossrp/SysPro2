@@ -1,0 +1,26 @@
+7329 aMP dAKNQKfe Mozambique 55 Rabies NO
+2648 gAfEcdtkrp mkjrt Mozambique 98 Smallpox NO
+2321 ntslmmq NZBCA Mozambique 120 Rotavirus YES 16-01-2008
+8968 BnzMf ILqO Mozambique 57 SARS-CoV YES 12-09-2001
+5561 PHqBqPfDynlh jQTgqW Mozambique 117 Hantavirus YES 26-10-2006
+7364 XXaVdaP hNPJglnwugK Mozambique 37 Dengue NO
+2885 zMTD HMQqhCO Mozambique 27 MERS-CoV YES 06-09-2020
+2191 KHc ZBbpFVkgxE Mozambique 109 Ebola NO
+1785 GXtcUPrV FCgeZit Mozambique 114 Rabies NO
+9524 KHvKARBS vOw Mozambique 38 Influenza YES 06-01-2008
+9815 mHRuMrC ZYgI Mozambique 9 MERS-CoV YES 14-02-2018
+3528 hvFtyylXSHhT uWZqKHGTiEds Mozambique 78 Marburg YES 30-11-2007
+1021 LKAXLcz nPQnqwK Mozambique 40 Rabies YES 02-12-2006
+1024 afhXOFHVdkyG gJDPQzBGsVcP Mozambique 43 Marburg YES 11-02-2002
+7364 XXaVdaP hNPJglnwugK Mozambique 37 Smallpox YES 17-12-2020
+0404 djbLyLIVtL iNwPexZ Mozambique 83 Hantavirus NO
+2258 akQEdwpx rySRuEEP Mozambique 14 H1N1 NO
+3836 Jsty ciwRVhU Mozambique 114 Ebola YES 19-01-2013
+9013 zLgMTmgBTIeK OVhUUd Mozambique 98 H1N1 NO
+6754 DrOLKuj qRDpxWhMd Mozambique 58 Influenza YES 20-12-2004
+3041 lHHtLbL VTOOVojh Mozambique 48 H5N8 YES 29-03-2019
+9815 mHRuMrC ZYgI Mozambique 9 Influenza NO
+2321 ntslmmq NZBCA Mozambique 120 H1N1 NO
+7924 RwtlIRHrof GTWzNIMvAg Mozambique 109 Marburg NO
+9524 KHvKARBS vOw Mozambique 38 Rotavirus NO
+6669 bCPhYYT FEiKRikf Mozambique 103 H1N1 YES 22-05-2017

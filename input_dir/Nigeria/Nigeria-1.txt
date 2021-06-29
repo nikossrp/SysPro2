@@ -1,0 +1,21 @@
+5202 RrcSzTiaqQ HQnaWnzgF Nigeria 80 Hantavirus NO
+9833 sUiHzRbgcst kmXkeOYY Nigeria 63 Dengue NO
+5894 xGsNPEv UCVoalH Nigeria 87 Ebola YES 26-03-2007
+7062 dIK AiIrzFCb Nigeria 11 SARS-CoV2 NO
+5630 rRes YsgAD Nigeria 66 Rabies NO
+5894 xGsNPEv UCVoalH Nigeria 87 Hantavirus YES 13-03-2010
+6740 ZWFMFC Ymkf Nigeria 109 Hantavirus NO
+6999 UoUo zHpt Nigeria 4 Dengue NO
+6661 QNC gpNZhk Nigeria 98 SARS-CoV YES 15-11-2017
+4293 YdRwuWQ uyeOqsRsHNva Nigeria 73 Smallpox YES 05-11-2015
+9833 sUiHzRbgcst kmXkeOYY Nigeria 63 MERS-CoV YES 11-07-2008
+9118 EpRz vkxG Nigeria 24 H5N8 YES 27-04-2011
+5029 aHltFvWcRBel fmRroCIvG Nigeria 88 SARS-CoV NO
+8866 IUEbdgU oKkilVrRE Nigeria 50 MERS-CoV YES 19-09-2012
+2462 uHvZr yMbCY Nigeria 91 Rabies YES 13-07-2001
+9203 qmvuD YLoTYiLak Nigeria 109 H1N1 NO
+5894 xGsNPEv UCVoalH Nigeria 87 H1N1 NO
+8071 LOndbZHka JNQxvJwD Nigeria 39 Marburg NO
+6279 GEKSuDuLEJ apcspXRTio Nigeria 79 Marburg NO
+0159 LxQ CRN Nigeria 45 Influenza NO
+9118 EpRz vkxG Nigeria 24 SARS-CoV YES 22-03-2014

@@ -1,0 +1,31 @@
+8721 sbGzF QaurSFO Netherlands 23 SARS-CoV NO
+8721 sbGzF QaurSFO Netherlands 23 H1N1 NO
+3398 JGIlZf weZEFg Netherlands 107 Rotavirus YES 12-11-2017
+7043 OnUSFf tudYeK Netherlands 117 Rabies YES 09-02-2012
+5146 PmnuS qcjGx Netherlands 65 Smallpox YES 08-04-2018
+5547 KXeZhUpPeVG uYfovmg Netherlands 12 SARS-CoV2 NO
+9795 ChRDlkRIuEF yfHy Netherlands 66 Dengue YES 21-07-2006
+1999 VGAS UYFiQQ Netherlands 104 H5N8 YES 14-08-2016
+8721 sbGzF QaurSFO Netherlands 23 H1N1 NO
+3865 DJgf PKfuwvDK Netherlands 23 Smallpox YES 16-12-2018
+9338 TnOHDkVM LZrOmUb Netherlands 68 Influenza YES 07-01-2004
+7040 OaFB PxuegJ Netherlands 113 Hantavirus NO
+6366 dtqVGnzU YisDTbQI Netherlands 89 Rabies YES 22-03-2001
+0055 LSdCAa PxaEDYomkWZw Netherlands 6 H1N1 NO
+0149 DYdZFXKDjdP QwJrJKyHILEb Netherlands 34 SARS-CoV YES 13-10-2002
+7994 ZaB okC Netherlands 41 SARS-CoV NO
+4863 aCEVduPi EZHNFsR Netherlands 77 Influenza YES 02-12-2004
+9795 ChRDlkRIuEF yfHy Netherlands 66 Smallpox YES 04-11-2009
+1111 yGE jneLPYkoBS Netherlands 89 H5N8 NO
+6458 BMrussJG MXZeQFpKBmX Netherlands 24 Hantavirus NO
+1484 ovSzFAOonX XljvHrKWD Netherlands 87 SARS-CoV2 NO
+6058 ywgwwgFNHu uQVvLUs Netherlands 108 SARS-CoV2 NO
+3398 JGIlZf weZEFg Netherlands 107 Dengue YES 25-12-2000
+5458 GhZLurNfhjlL gXjy Netherlands 91 SARS-CoV NO
+6201 NFJHT rhgf Netherlands 47 SARS-CoV YES 10-07-2021
+9795 ChRDlkRIuEF yfHy Netherlands 66 Dengue YES 03-02-2013
+4854 ZSlzewpAMfzv BMqRhVujMVdl Netherlands 107 Influenza YES 30-10-2002
+3427 YjNnB CaexEenQ Netherlands 6 Influenza NO
+1999 VGAS UYFiQQ Netherlands 104 Influenza NO
+1484 ovSzFAOonX XljvHrKWD Netherlands 87 Hantavirus NO
+2880 PfGsN ZjPlIFyKy Netherlands 18 Smallpox NO

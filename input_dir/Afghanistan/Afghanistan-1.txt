@@ -1,0 +1,25 @@
+7845 QInZiDFJcF EOog Afghanistan 94 SARS-CoV2 NO
+7868 JhqSWmnMw pjIbU Afghanistan 29 Dengue NO
+4726 GKbucOB OiPuWhasFst Afghanistan 100 H1N1 YES 25-07-2017
+7709 hpdaR ckwhpRWJb Afghanistan 112 SARS-CoV2 YES 29-12-2000
+7709 hpdaR ckwhpRWJb Afghanistan 112 Influenza YES 02-07-2012
+8921 ATH qjkI Afghanistan 11 Dengue YES 29-07-2014
+2725 VADUrgUe wEoPFdfslVv Afghanistan 71 H5N8 NO
+8921 ATH qjkI Afghanistan 11 Rotavirus NO
+1072 xkL OifjHQoNEf Afghanistan 120 H5N8 NO
+0572 WEMCw SDWjHhMlo Afghanistan 3 Rabies NO
+1959 OIVRIoPtbE TIReSf Afghanistan 53 H1N1 NO
+3722 YHYHGkoiSiuq qhDHJmLGHHm Afghanistan 45 Rotavirus YES 30-10-2014
+1959 OIVRIoPtbE TIReSf Afghanistan 53 Dengue NO
+8599 scgJSRGGd IbQ Afghanistan 30 Smallpox NO
+1807 kJHFjnvWt dozIdD Afghanistan 100 Rabies YES 04-05-2011
+9396 EwLcYUPVdr dGnPlRHGHttU Afghanistan 61 Influenza YES 04-10-2021
+4975 WGYSKqQuVsBx MKlc Afghanistan 33 Ebola YES 28-02-2015
+3298 TiNq rVvnidg Afghanistan 41 H5N8 YES 11-01-2021
+1072 xkL OifjHQoNEf Afghanistan 120 SARS-CoV YES 24-08-2020
+5034 APjZOWMeQDR WYV Afghanistan 18 Rotavirus NO
+1203 MFnA hsHZ Afghanistan 90 Rotavirus YES 23-08-2014
+5575 OrX kRjNNbJCJ Afghanistan 67 Rabies YES 24-10-2014
+4548 OwTqSg gArbdWusfP Afghanistan 67 SARS-CoV2 NO
+7734 KFEbtV HXYy Afghanistan 110 H1N1 NO
+4975 WGYSKqQuVsBx MKlc Afghanistan 33 SARS-CoV NO

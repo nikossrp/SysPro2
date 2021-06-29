@@ -1,0 +1,19 @@
+0466 FQEkyJIi wgcwChUHEhP Oman 106 H5N8 NO
+0417 liNm YPRR Oman 103 H1N1 NO
+0417 liNm YPRR Oman 103 SARS-CoV YES 26-12-2011
+8119 bHdyvxbS aFzB Oman 60 H5N8 YES 28-10-2009
+8119 bHdyvxbS aFzB Oman 60 SARS-CoV2 NO
+8119 bHdyvxbS aFzB Oman 60 Smallpox NO
+9636 ISMppPL ZBnFsvZLkd Oman 81 Hantavirus NO
+2617 DeudKcsWn SDhKd Oman 72 Hantavirus YES 19-03-2003
+9320 BHmpXhTUngtU WIxXBekwdjN Oman 78 Rotavirus NO
+5178 OPnYackt wSbyrkrVLDYe Oman 10 Dengue NO
+7101 sYTOmfU OHelyvspK Oman 30 H5N8 YES 20-01-2011
+5284 ujFjDTFEwFGR qYORICs Oman 4 Ebola YES 03-08-2007
+4872 CAdNIDejZ wdFgsGBZoV Oman 44 Influenza YES 04-10-2014
+9320 BHmpXhTUngtU WIxXBekwdjN Oman 78 Rotavirus NO
+8581 rfLqOB YxdVvjlW Oman 64 Hantavirus NO
+0284 WLhMEJeZeqcY EnXANEV Oman 87 MERS-CoV NO
+8230 HcmFAvirxwa AlITy Oman 45 Hantavirus NO
+2617 DeudKcsWn SDhKd Oman 72 Rotavirus YES 14-09-2019
+6802 ARIHLOKdoO PNZfG Oman 54 Rotavirus YES 04-11-2017

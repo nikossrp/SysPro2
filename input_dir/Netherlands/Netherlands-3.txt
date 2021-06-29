@@ -1,0 +1,30 @@
+2068 SwLgZC OBT Netherlands 1 Hantavirus YES 07-04-2008
+4193 XvGGxsb lUrFKptzv Netherlands 107 SARS-CoV2 NO
+2361 aUWAcnsh rQBMeENTw Netherlands 44 Marburg YES 10-12-2010
+4854 ZSlzewpAMfzv BMqRhVujMVdl Netherlands 107 SARS-CoV YES 24-03-2012
+7043 OnUSFf tudYeK Netherlands 117 SARS-CoV YES 16-04-2016
+0425 JVicjiZk zlt Netherlands 63 MERS-CoV YES 18-05-2019
+5146 PmnuS qcjGx Netherlands 65 Hantavirus NO
+9734 QFL wid Netherlands 43 Ebola NO
+1999 VGAS UYFiQQ Netherlands 104 Ebola YES 07-09-2001
+9795 ChRDlkRIuEF yfHy Netherlands 66 H5N8 YES 21-07-2018
+7043 OnUSFf tudYeK Netherlands 117 H1N1 YES 25-05-2009
+2361 aUWAcnsh rQBMeENTw Netherlands 44 Marburg YES 04-10-2017
+7040 OaFB PxuegJ Netherlands 113 Marburg YES 11-08-2021
+4026 eiIQiDSeRQa DuhdDTy Netherlands 90 Ebola NO
+3865 DJgf PKfuwvDK Netherlands 23 SARS-CoV2 YES 01-01-2005
+3063 oSbEQGMHHJE TwxKXfH Netherlands 43 H1N1 NO
+0055 LSdCAa PxaEDYomkWZw Netherlands 6 Influenza YES 16-07-2012
+4062 DYejKOmgT BbNxV Netherlands 96 MERS-CoV NO
+0055 LSdCAa PxaEDYomkWZw Netherlands 6 Smallpox NO
+0055 LSdCAa PxaEDYomkWZw Netherlands 6 Ebola NO
+6366 dtqVGnzU YisDTbQI Netherlands 89 SARS-CoV2 YES 20-05-2011
+5146 PmnuS qcjGx Netherlands 65 Ebola NO
+5458 GhZLurNfhjlL gXjy Netherlands 91 Dengue YES 18-10-2013
+5028 icxRhiVbz acI Netherlands 67 H5N8 YES 29-07-2003
+4854 ZSlzewpAMfzv BMqRhVujMVdl Netherlands 107 Smallpox YES 27-01-2007
+8086 ospdenodG ieDFFTSw Netherlands 34 H5N8 YES 29-01-2008
+2361 aUWAcnsh rQBMeENTw Netherlands 44 H5N8 YES 23-12-2001
+5458 GhZLurNfhjlL gXjy Netherlands 91 H1N1 YES 06-11-2003
+0734 MYbMsdIZ RnMPsvxwu Netherlands 95 H1N1 NO
+7472 XbCymf LlipqYpvWFr Netherlands 77 Influenza YES 27-11-2015

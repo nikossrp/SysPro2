@@ -1,0 +1,14 @@
+8677 FgEmr WWxXDAsba Norway 6 Dengue NO
+9987 whxqAulozFls nylIdvWJR Norway 38 SARS-CoV NO
+7493 WjOPPofMlroy dKHgLObg Norway 39 Ebola YES 19-02-2015
+8250 zElpQMkc ImoRbdbrcQI Norway 60 Hantavirus YES 12-11-2007
+0806 spqD ptA Norway 120 SARS-CoV2 YES 27-08-2003
+3493 ZthJq HGCVJ Norway 30 Hantavirus YES 07-04-2016
+5083 txDIA sRRVifdMCCER Norway 78 MERS-CoV YES 24-08-2008
+5654 umRfBTXfh pLLTmfY Norway 16 Marburg YES 04-06-2004
+2413 BMqu bMvGJx Norway 78 SARS-CoV2 NO
+8427 nbWZvFrYdZYJ vfCwRaze Norway 96 Marburg NO
+5249 eRe eyKVqWx Norway 49 Influenza YES 14-09-2014
+7850 IXPzvBXWMPq WvPHohSlm Norway 25 H1N1 YES 04-09-2021
+8795 JFto rzoY Norway 75 Rotavirus NO
+8564 jZYQccqtnkQB qsxoGBTEFYot Norway 42 Influenza NO

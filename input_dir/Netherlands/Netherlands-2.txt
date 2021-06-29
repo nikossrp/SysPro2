@@ -1,0 +1,30 @@
+8721 sbGzF QaurSFO Netherlands 23 H5N8 YES 21-07-2013
+1999 VGAS UYFiQQ Netherlands 104 Ebola NO
+9795 ChRDlkRIuEF yfHy Netherlands 66 Hantavirus NO
+2361 aUWAcnsh rQBMeENTw Netherlands 44 H1N1 NO
+9338 TnOHDkVM LZrOmUb Netherlands 68 MERS-CoV NO
+6058 ywgwwgFNHu uQVvLUs Netherlands 108 H5N8 YES 17-10-2001
+9795 ChRDlkRIuEF yfHy Netherlands 66 MERS-CoV YES 03-12-2003
+8303 GQIhxt QUtLYlH Netherlands 5 Rotavirus YES 17-08-2021
+4863 aCEVduPi EZHNFsR Netherlands 77 SARS-CoV NO
+8303 GQIhxt QUtLYlH Netherlands 5 Rotavirus YES 02-05-2007
+1279 acqRgrRht RVLmsb Netherlands 54 Rotavirus YES 14-10-2012
+7043 OnUSFf tudYeK Netherlands 117 Hantavirus YES 22-03-2004
+0734 MYbMsdIZ RnMPsvxwu Netherlands 95 H1N1 NO
+5547 KXeZhUpPeVG uYfovmg Netherlands 12 Hantavirus YES 14-12-2019
+4026 eiIQiDSeRQa DuhdDTy Netherlands 90 Hantavirus NO
+5164 XfgQHB CyDAyqLTbZk Netherlands 70 Marburg NO
+1999 VGAS UYFiQQ Netherlands 104 MERS-CoV YES 04-02-2004
+4863 aCEVduPi EZHNFsR Netherlands 77 Influenza NO
+9795 ChRDlkRIuEF yfHy Netherlands 66 SARS-CoV NO
+0531 CXzlLODZLepO ooutfTLMj Netherlands 9 SARS-CoV2 YES 26-06-2015
+4062 DYejKOmgT BbNxV Netherlands 96 Marburg YES 09-03-2004
+2068 SwLgZC OBT Netherlands 1 Rotavirus NO
+2880 PfGsN ZjPlIFyKy Netherlands 18 Influenza YES 15-07-2017
+1111 yGE jneLPYkoBS Netherlands 89 Rotavirus YES 30-11-2003
+4863 aCEVduPi EZHNFsR Netherlands 77 Smallpox NO
+9795 ChRDlkRIuEF yfHy Netherlands 66 Rabies YES 14-08-2006
+6201 NFJHT rhgf Netherlands 47 SARS-CoV YES 09-01-2013
+0932 XYa shKIt Netherlands 114 Marburg NO
+0425 JVicjiZk zlt Netherlands 63 H1N1 NO
+5547 KXeZhUpPeVG uYfovmg Netherlands 12 Dengue YES 08-01-2013
