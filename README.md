@@ -9,7 +9,7 @@ make
 <h3><p>Description</h3></p>
  TravelMonitor will generate numMonitors processes. Each process is called monitorX, monitor is executing the application VaccineMonitor (see project SysPro1-VaccinateMonitor). 
  For the commands /travelRequest, /searchVaccinationStatus, /addVaccinationRecords, travelMonitor will send some request via named pipes to Monitors.
- Monitor will extract the answer. The answer will be sent back to travelMonitor via named pipe, at the end travelMonitor will print the answer to console.
+ Monitor will extract the answer from the correct file. The answer will be sent back to travelMonitor via named pipe, at the end travelMonitor will print the answer to console.
  
  
 <h3><p>Commands</h3></p>
